@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.13"
+  },
+  "name": "prova",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
